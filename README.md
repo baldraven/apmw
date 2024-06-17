@@ -14,7 +14,7 @@ It's also possible to play directly the game natively on your machine, by downlo
 
 ## How to play
 
-The game is about being quick with his fingers, as the deplacement speed and the damage dealt is reliant on the number of key pressed. An action per minute counter is being shown on the top right corner.\
+The game is about being quick with his fingers, as the move speed and the damage dealt rely on the number of key pressed. An action per minute counter is being shown on the top right corner.\
 The health bars are currently not restrictive : they can go below or above the normal range, so you can chip away your enemies stress-free.
 
 Controls :
