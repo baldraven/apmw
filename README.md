@@ -8,7 +8,7 @@ You play as bloodthirsty werewolves, that have to eat their preys quickly in ord
 
 ## Release
 
-Game is available online on Itch.io at https://baldraven.itch.io/apmw \
+Game is available online on Itch.io at https://baldraven.itch.io/apmw
 
 It's also possible to play directly the game natively on your machine, by downloading [LÖVE](https://love2d.org/) and running the game's source code with it.
 
