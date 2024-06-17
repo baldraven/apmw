@@ -1,5 +1,5 @@
-local SCREEN_W = 800
-local SCREEN_H = 600
+local SCREEN_W = love.graphics.getWidth()
+local SCREEN_H = love.graphics.getHeight()
 
 local ARENA_W = SCREEN_W*3
 local ARENA_H = SCREEN_H*3
@@ -81,7 +81,7 @@ local function unit_round(x)
 end
 
 local function random_arena_pos()
-    return (unit_round(math.random(0, ARENA_W)) + arena_pos.x), (unit_round(math.random(0, ARENA_H)) + arena_pos.y)
+    return (unit_round(love.math.random(UNIT_SIZE, ARENA_W)) + arena_pos.x), (unit_round(love.math.random(UNIT_SIZE, ARENA_H)) + arena_pos.y)
 end
 
 
